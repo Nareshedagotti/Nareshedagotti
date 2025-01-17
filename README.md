@@ -60,10 +60,6 @@ I'm a **Data Scientist** with a strong foundation in statistics and machine lear
 <a href="https://www.linkedin.com/in/naresh-edagotti/" target="_blank">LinkedIn</a> | <a href="https://github.com/naresh21375019" target="_blank">GitHub</a>  
 </p>
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Statfusionai&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
 ###
 
 <img src="https://raw.githubusercontent.com/Nareshedagotti/Nareshedagotti/output/snake.svg" alt="Snake animation" />
