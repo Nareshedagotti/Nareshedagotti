@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nareshedagotti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&title_color=ff0000&text_color=ffffff&bg_color=000000&icon_color=ff0000&locale=en&hide_border=false&order=1" height="200"  alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nareshedagotti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&title_color=ff0000&text_color=ffffff&bg_color=000000&icon_color=ff0000&hide_border=false&order=2" height="200" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nareshedagotti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&title_color=ff0000&text_color=ffffff&bg_color=000000&icon_color=ff0000&locale=en&hide_border=false&order=1" height="150"  alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nareshedagotti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&title_color=ff0000&text_color=ffffff&bg_color=000000&icon_color=ff0000&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
 
