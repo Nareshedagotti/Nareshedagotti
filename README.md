@@ -1,6 +1,6 @@
 # Naresh Edagotti - Data Scientist
 
-Welcome to my GitHub profile! I'm Naresh Edagotti, a Data Scientist with a strong background in analytics, machine learning, and GenAI models. I specialize in developing innovative, data-driven solutions to address real-world challenges, with a particular focus on agriculture, education, and language technology.
+I'm Naresh Edagotti, a Data Scientist with a strong background in analytics, machine learning, and GenAI models. I specialize in developing innovative, data-driven solutions to address real-world challenges, with a particular focus on agriculture, education, and language technology.
 
 ## 🔍 About Me
 - **Location**: Hyderabad, India
