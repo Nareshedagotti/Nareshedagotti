@@ -74,19 +74,19 @@
 ### 🤝Connect with Me🤝
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/naresh-edagotti/" target="_blank">
+  <a href="https://www.linkedin.com/in/naresh-edagotti-6a71a1233/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
-  <a href="https://github.com/naresh21375019" target="_blank">
+  <a href="https://github.com/Nareshedagotti" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="GitHub logo" />
   </a>
-  <a href="https://www.instagram.com/your_instagram_username" target="_blank">
+  <a href="https://www.instagram.com/statfusionai/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
   </a>
-  <a href="https://www.youtube.com/channel/your_channel_id" target="_blank">
+  <a href="https://www.youtube.com/@StatfusionAI" target="_blank">
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube logo" />
   </a>
-  <a href="https://medium.com/@your_medium_username" target="_blank">
+  <a href="https://medium.com/@statfusionai" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Medium logo" />
   </a>
 </div>
