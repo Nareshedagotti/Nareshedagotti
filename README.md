@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Naresh Edagotti – Data Scientist 🧑‍💻, shaping data into stories and solutions!
-### 👨‍💻About Me
+### 👨‍💻About Me 
 <div align="left">
   
 - ![🎓 Statistical Expert](https://img.shields.io/badge/🎓-Statistical_Expert-blue?style=flat)  Master of Science in Statistics with strong skills in data analysis, machine learning, and visualization.  
