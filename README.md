@@ -9,7 +9,7 @@
 - ![🌏 Sustainability Advocate](https://img.shields.io/badge/🌏-Sustainability_Advocate-orange?style=flat) Promoting regenerative agriculture and sustainable practices through data-driven solutions for **2,000+ farmers**.  
 
 - ![📊 Tech Proficiency](https://img.shields.io/badge/📊-Tech_Proficiency-red?style=flat) Expertise in Python, R, SQL, Power BI, and cutting-edge AI tools like BERT, GPT, and LangChain.  
-
+ 
 
 ### 📈Github Stats 
 
