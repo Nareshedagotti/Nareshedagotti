@@ -68,7 +68,7 @@
 ### 🔥My Stats
   
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nareshedagotti&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"/>
+  <img src="https://streak-stats.demolab.com?user=Nareshedagotti&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 ### 🤝Connect with Me🤝
@@ -90,4 +90,3 @@
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Medium logo" />
   </a>
 </div>
-
