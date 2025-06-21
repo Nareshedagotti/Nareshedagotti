@@ -1,7 +1,7 @@
 # Hi 👋, I'm Naresh Edagotti
 ## 🧑‍💻 Data Scientist | AI Engineer | Statistical Expert
 
-<div align="center">
+<div align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Scientist+%26+AI+Engineer;Machine+Learning+Enthusiast;Statistical+Analysis+Expert;Building+AI+Solutions+for+Real+World" alt="Typing SVG" />
 </div>
 
