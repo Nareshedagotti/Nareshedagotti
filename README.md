@@ -31,16 +31,18 @@
 <div align="center">
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=python,r,js,html,css" />
+<img src="https://skillicons.dev/icons?i=python,r,html,css" />
 
 ### AI/ML Frameworks
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/tensorflow-%23F7931E.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/pytorch-%23F7542E.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/opencv-%23F7631E.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-%23F7123E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 
 ### Development Tools
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,git,github,docker" />
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,docker" />
 
 ### Databases & Analytics
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
@@ -54,54 +56,6 @@
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-
-</div>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-### 🤖 AI & Machine Learning
-| Project | Description | Tech Stack | Stars |
-|---------|-------------|------------|-------|
-| [🧠 Finetuning LLaMA2-7B](https://github.com/Nareshedagotti/Finetuning-llama2b-7b) | Advanced LLM fine-tuning for domain-specific tasks | Python, PyTorch, Transformers | ⭐ |
-| [📚 RAG Systems](https://github.com/Nareshedagotti/RAG) | Retrieval-Augmented Generation implementations | Python, LangChain, Vector DBs | ⭐ |
-| [📄 Document Query System](https://github.com/Nareshedagotti/Document-Query-System) | Intelligent document analysis and querying | Python, NLP, Streamlit | ⭐ |
-| [🎭 Sentiment Analysis](https://github.com/Nareshedagotti/Sentiment-analysis) | Advanced sentiment classification models | Python, BERT, Transformers | ⭐ |
-
-### 🏥 Healthcare & Prediction
-| Project | Description | Tech Stack | Stars |
-|---------|-------------|------------|-------|
-| [💊 Diabetes Prediction](https://github.com/Nareshedagotti/Diabaties-prediction) | ML model for early diabetes detection | Python, Scikit-learn, Pandas | ⭐ |
-| [🏥 Customer Churn Prediction](https://github.com/Nareshedagotti/Customer-churn-prediction) | Predictive analytics for customer retention | Python, ML, Data Viz | ⭐ |
-
-### 💰 Finance & Trading
-| Project | Description | Tech Stack | Stars |
-|---------|-------------|------------|-------|
-| [📈 Stock Analyst](https://github.com/Nareshedagotti/stockanalyst) | Comprehensive stock analysis platform | Python, Financial APIs | ⭐ |
-| [🏦 SBI Stock Prediction](https://github.com/Nareshedagotti/Sbi-stock-price-prediction) | Time series forecasting for stock prices | Python, LSTM, Technical Analysis | ⭐ |
-| [🔍 Fraud Detection](https://github.com/Nareshedagotti/Online-fraud-detection-) | ML-based fraud detection system | Python, Anomaly Detection | ⭐ |
-
-### 🌾 Agriculture & Sustainability
-| Project | Description | Tech Stack | Stars |
-|---------|-------------|------------|-------|
-| [🌱 Crop Recommendation](https://github.com/Nareshedagotti/crop-recomndation) | AI-powered crop recommendation system | Python, ML, Agricultural Data | ⭐ |
-
-### 🤖 Chatbots & Assistants
-| Project | Description | Tech Stack | Stars |
-|---------|-------------|------------|-------|
-| [💬 Gemini Chatbot](https://github.com/Nareshedagotti/Simple-Chatbot-with-Gemini) | Advanced conversational AI | Python, Gemini API | ⭐ |
-| [🍎 Diet Assistant](https://github.com/Nareshedagotti/Personal-Diet-Assistant-with-Groq) | Personalized nutrition advisor | Python, Groq, Health APIs | ⭐ |
-| [📊 Stat Bot](https://github.com/Nareshedagotti/Stat-bot) | Statistical analysis assistant | Python, Statistics | ⭐ 2 |
-
-### 📊 Data Analytics & Visualization
-| Project | Description | Tech Stack | Stars |
-|---------|-------------|------------|-------|
-| [🏏 IPL Analysis](https://github.com/Nareshedagotti/Power-BI-Ipl-full-analysis) | Comprehensive cricket analytics dashboard | Power BI, DAX | ⭐ |
-| [💼 HR Analytics](https://github.com/Nareshedagotti/MERISKILL-Internship-PowerBI-Projects) | Sales & HR data analysis projects | Power BI, Data Modeling | ⭐ |
-| [🔧 Data Preprocessing](https://github.com/Nareshedagotti/Datapreprocessing_automation) | Automated data cleaning pipeline | Python, Pandas, Automation | ⭐ |
 
 </div>
 
@@ -154,16 +108,6 @@
 - 📚 **Learning**: Exploring latest developments in Generative AI
 - 🌍 **Impact**: Creating solutions for sustainable agriculture
 - 📖 **Sharing**: Writing technical articles and tutorials
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Efficient RAG Systems with LangChain](https://medium.com/@statfusionai)
-- [Fine-tuning LLaMA2 for Domain-Specific Tasks](https://medium.com/@statfusionai)
-- [Advanced Techniques in Sentiment Analysis](https://medium.com/@statfusionai)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
