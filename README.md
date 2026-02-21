@@ -12,17 +12,17 @@
 
 ---
 
-## 🚀 What I do
+## What I do
 - Build with **LLMs**, **RAG pipelines**, and **agentic systems**
 - Design and ship **AI applications** from prototype to production
 - Work across **Python**, **APIs**, **vector databases**, and **cloud tooling**
 
-## 🎯 Current focus
+## Current focus
 - Reliable multi-agent workflows
 - Evaluation and observability for LLM apps
 - Scalable retrieval architectures
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -39,13 +39,7 @@
 
 </div>
 
-## 📈 GitHub Pulse
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Nareshedagotti&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nareshedagotti&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-## 🤝 Connect
+## Connect
 - LinkedIn: https://www.linkedin.com/in/naresh-edagotti-6a71a1233/
 - GitHub: https://github.com/Nareshedagotti
 - Medium: https://medium.com/@statfusionai
